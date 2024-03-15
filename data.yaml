@@ -1,0 +1,4 @@
+
+{names: [player,ball],  
+train: /Users/betulyasar/Desktop/football/data,
+validation: /Users/betulyasar/Desktop/football/data}
